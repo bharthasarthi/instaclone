@@ -1,4 +1,4 @@
-Instagram simple Clone using flutter ui
+Instagram ui simple Clone using flutter 
 
 Contents:
 ->login/signup page
